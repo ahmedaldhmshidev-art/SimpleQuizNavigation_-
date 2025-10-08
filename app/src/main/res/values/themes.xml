@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NavigationComponent_Quiz" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<!--        <item name="colorPrimary">#2196F3</item>-->
+        <item name="colorPrimary">#395faa</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+    </style>
+
+    <style name="Theme.NavigationComponent_Quiz" parent="Base.Theme.NavigationComponent_Quiz" />
+</resources>

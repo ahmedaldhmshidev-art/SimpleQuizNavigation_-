@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">َQUIZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="shar_text">%1$d incorrect answers , and %2$d correct answers</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_start">START</string>
+    <string name="tv_win">Congratulations</string>
+    <string name="tv_lost">GAME OVER</string>
+    <string name="btn_again">TRY AGAIN TEST</string>
+    <string name="tv_count_wrong">WRONG ANSWERS:</string>
+    <string name="tv_count_correct">CORRECT ANSWERS:</string>
+    <string name="tv_information">INFORMATION</string>
+    <string name="tv_about">ABOUT</string>
+    <string name="tv_shar">SHAR</string>
+    <string name="tv_question">Questions</string>
+    <string name="title_finalResult">FINAL RESULT</string>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shar_text">%1$d  الجابات الخاطيئة,  %2$d الاجابات الصحيحة  </string>
+    <string name="btn_next">التالي </string>
+    <string name="btn_start">ابدا</string>
+    <string name="tv_win">مبروك! لقد نجحت </string>
+    <string name="tv_lost">حظ أوفر! حاول مرة اخرئ</string>
+    <string name="btn_again">حاول مرة اخرئ</string>
+    <string name="tv_count_wrong">الاجابات الخاطيئة:</string>
+    <string name="tv_count_correct">الاجابات الصحيحة:</string>
+    <string name="tv_information">معلومات</string>
+    <string name="tv_about">وصف التطبيق </string>
+    <string name="tv_shar">مشاركة</string>
+    <string name="tv_question">الاسئلة</string>
+    <string name="title_finalResult">النتيجة النهائية</string>
+
+
+</resources>

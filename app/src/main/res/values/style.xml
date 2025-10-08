@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="headerText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:layout_gravity">center</item>
+
+    </style>
+    <style name="normalText">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+</resources>
